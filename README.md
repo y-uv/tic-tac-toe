@@ -1,6 +1,8 @@
 # Tic-Tac-Toe
 
-A modern implementation of the classic Tic-Tac-Toe game built with React. Features include variable board sizes (3x3 to 6x6), player versus player mode, and player versus NPC mode with intelligent move calculation.
+A modern implementation of the classic Tic-Tac-Toe game built with React. Features include variable board sizes (3x3 to 6x6), player versus player mode, and player versus NPC mode with intelligent(ish) move calculation.
+
+https://tic-tac-toe-yuval.netlify.app/
 
 ## Features
 
