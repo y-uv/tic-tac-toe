@@ -58,7 +58,6 @@ The NPC implementation uses different strategies based on board size:
 
 - React
 - Vite
-- TailwindCSS
 - Session Storage API
 
 ## Code Structure
