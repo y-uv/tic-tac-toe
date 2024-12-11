@@ -56,7 +56,7 @@ The NPC implementation uses different strategies based on board size:
 
 - React
 - Vite
-- CSS3 with modern animations
+- TailwindCSS
 - Session Storage API
 
 ## Code Structure
@@ -79,13 +79,12 @@ src/
 - **Pure Components**: Board component is pure for optimal rendering
 - **Responsive Design**: Adapts to different screen sizes
 - **Accessibility**: Clear visual feedback and user-friendly controls
-- **Performance**: Optimized NPC algorithm for larger board sizes
+- **Performance**: Optimized NPC algorithm for larger board sizes, very easy difficulty
 
 ## Future Improvements
 
 Potential areas for enhancement:
-- Online multiplayer support
+- Online multiplayer support with authentication
 - Additional board sizes
 - Game history tracking
 - Difficulty levels for NPC
-- Custom player markers
